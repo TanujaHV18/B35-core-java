@@ -1,4 +1,4 @@
-package org.tnsindia.Polymorphismdemo;
+package org.tnsindia.PolymorphismDemo;
 //Demo on Constructor overloading
 public class Renault {
 	public String model;

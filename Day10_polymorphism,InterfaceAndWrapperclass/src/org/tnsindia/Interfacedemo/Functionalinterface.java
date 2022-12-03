@@ -1,4 +1,4 @@
-package Interfacedemo;
+package org.tnsindia.Interfacedemo;
 
 //Functional interface is a interface which contains exactly one abstract method
 @FunctionalInterface

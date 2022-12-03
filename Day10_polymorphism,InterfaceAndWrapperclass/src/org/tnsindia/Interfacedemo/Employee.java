@@ -1,4 +1,4 @@
-package Interfacedemo;
+package org.tnsindia.Interfacedemo;
 
 /*//Implementable class
 //interface only implements the classes

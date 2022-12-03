@@ -1,4 +1,4 @@
-package org.tnsindia.Polymorphismdemo;
+package org.tnsindia.PolymorphismDemo;
 //parent class
 //demo on method overriding
 //return type should be the same at the primitive level

@@ -1,4 +1,4 @@
-package Interfacedemo;
+package org.tnsindia.Interfacedemo;
 
 import java.util.Scanner;
 

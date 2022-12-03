@@ -1,4 +1,4 @@
-package org.tnsindia.Polymorphismdemo;
+package org.tnsindia.PolymorphismDemo;
 //child class
 //Use inheritance for overriding
 public class Methodoveriddingchild {

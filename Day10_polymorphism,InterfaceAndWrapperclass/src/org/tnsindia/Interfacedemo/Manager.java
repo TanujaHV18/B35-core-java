@@ -1,4 +1,4 @@
-package Interfacedemo;
+package org.tnsindia.Interfacedemo;
 /*//INTERFACE 2
 //Any interface extends the multiple interfaces but not the classes
 public interface Manager extends HR{

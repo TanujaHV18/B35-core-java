@@ -1,4 +1,4 @@
-package org.tnsindia.Polymorphismdemo;
+package org.tnsindia.PolymorphismDemo;
 
 public class Methodoverloading {
 	//method overloading

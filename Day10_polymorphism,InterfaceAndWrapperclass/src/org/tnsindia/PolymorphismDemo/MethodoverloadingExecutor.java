@@ -1,4 +1,4 @@
-package org.tnsindia.Polymorphismdemo;
+package org.tnsindia.PolymorphismDemo;
 //driver class
 public class MethodoverloadingExecutor {
 

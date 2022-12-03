@@ -1,4 +1,4 @@
-package AutoUnBoxingDemo;
+package org.tnsindia.AutoUnBoxingDemo;
 //demo on auto-boxing
 public class Autoboxingdemo {
 

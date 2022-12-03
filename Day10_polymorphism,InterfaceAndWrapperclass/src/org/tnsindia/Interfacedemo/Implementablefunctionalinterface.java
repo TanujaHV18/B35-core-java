@@ -1,4 +1,4 @@
-package Interfacedemo;
+package org.tnsindia.Interfacedemo;
 
 public class Implementablefunctionalinterface implements Functionalinterface {
 	@Override

@@ -1,4 +1,4 @@
-package Interfacedemo;
+package org.tnsindia.Interfacedemo;
 
 //driver class
 public class InterfaceareaShapeExecutor {
