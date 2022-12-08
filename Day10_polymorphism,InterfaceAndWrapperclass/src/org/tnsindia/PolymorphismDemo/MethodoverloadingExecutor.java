@@ -15,7 +15,7 @@ public class MethodoverloadingExecutor {
 		Methodoverloading m1=new Methodoverloading();
 		//method calling
 		m1.addition(18, 16);
-		m1.addition(25.6f, 56);
+		m1.addition(18.6f, 66);
 
 	}
 
